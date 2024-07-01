@@ -1,0 +1,7 @@
+.gitignore
+.config
+bin
+Migrations
+obj
+appsettings.*.json
+appsettings.json
